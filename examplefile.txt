@@ -1,2 +1,2 @@
-This content will be different.
-This content will be same.
+The content will be different.
+The content will be same.
